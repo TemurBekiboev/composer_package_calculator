@@ -1,0 +1,19 @@
+{
+    "name": "temur/todolist",
+    "description": "something",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TemurBekiboev",
+            "email": "temurbekiboev1234@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "temur\\todolist\\": "src/"
+        }
+    },
+    "require": {}
+}
